@@ -20,3 +20,5 @@ This is a H1
 this is a H2
 
 -----------
+
+<pre><code> This is a code block </code></pre>
